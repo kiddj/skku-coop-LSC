@@ -5,5 +5,6 @@
 
 ## 2. 성능 측정
 - **데이터:** Kaggle의 'Credit Card Fraud Detection'에서 주어지는 데이터를 이용
+https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 - **평가척도:** Confusion Matrix
